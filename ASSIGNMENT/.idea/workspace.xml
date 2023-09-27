@@ -11,7 +11,7 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="untitled3" targetName="untitled3" />
+      <config projectName="ASSIGNMENT" targetName="ASSIGNMENT" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -20,7 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a17cabb4-686c-483b-ab7f-ba07affdbf0d" name="Changes" comment="" />
+    <list default="true" id="a7c55682-cc7d-4ec0-96e2-f2e0ca9e92cf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,9 +39,9 @@
     <option name="minorVersion" value="2.2" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
+  "associatedIndex": 1
 }]]></component>
-  <component name="ProjectId" id="2VyfeaUJFwT1qJSrRyyH52CH2Zy" />
+  <component name="ProjectId" id="2VykUC2m6fVjml0z7AcPZUcQFNr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,6 +55,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,7 +69,7 @@
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration name="untitled3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled3" TARGET_NAME="untitled3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled3" RUN_TARGET_NAME="untitled3">
+    <configuration name="ASSIGNMENT" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ASSIGNMENT" TARGET_NAME="ASSIGNMENT" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ASSIGNMENT" RUN_TARGET_NAME="ASSIGNMENT">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -77,22 +78,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a17cabb4-686c-483b-ab7f-ba07affdbf0d" name="Changes" comment="" />
-      <created>1695813337178</created>
+      <changelist id="a7c55682-cc7d-4ec0-96e2-f2e0ca9e92cf" name="Changes" comment="" />
+      <created>1695815720856</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1695813337178</updated>
-      <workItem from="1695813340414" duration="1828000" />
+      <updated>1695815720856</updated>
+      <workItem from="1695815722163" duration="428000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VCPKGProject">
-    <isAutomaticEditVcpkgJson value="false" />
-    <isAutomaticCheckingOnLaunch value="false" />
-    <isAutomaticFoundErrors value="true" />
-    <isAutomaticFoundErrors value="true" />
   </component>
 </project>
