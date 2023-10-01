@@ -21,54 +21,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7c55682-cc7d-4ec0-96e2-f2e0ca9e92cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/.idea/CLASSROOM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/.cmake/api/v1/reply/cache-v2-daf20c2e10c845d5f677.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-8d274aef10b4eb5e48af.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-40f129c20964ef64ef25.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-28T16-01-47-0915.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/.cmake/api/v1/reply/target-CLASSROOM-Debug-6dedef3e64881bc8e57d.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-1a91e91f1c114e4c2010.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/build.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CLASSROOM/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2.c" beforeDir="false" afterPath="$PROJECT_DIR$/2.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-24f8bbb3c39b4968899e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-962200aa761f2a1abc6b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-28T15-48-24-0107.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-ASSIGNMENT-Debug-6996c58229fb62ad21e4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ASSIGNMENT.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ASSIGNMENT.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +92,7 @@
       <workItem from="1695815722163" duration="428000" />
       <workItem from="1695816272191" duration="1519000" />
       <workItem from="1695917067501" duration="91000" />
-      <workItem from="1696140435004" duration="1545000" />
+      <workItem from="1696140435004" duration="2740000" />
     </task>
     <servers />
   </component>
