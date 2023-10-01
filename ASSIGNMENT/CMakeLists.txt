@@ -4,5 +4,6 @@ project(ASSIGNMENT C)
 set(CMAKE_C_STANDARD 23)
 
 add_executable(ASSIGNMENT
-        Factorial.c)
-        #2.c)
+        #Factorial.c
+        2.c)
+
