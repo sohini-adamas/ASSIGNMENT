@@ -5,5 +5,6 @@ set(CMAKE_C_STANDARD 23)
 
 add_executable(ASSIGNMENT
         #Factorial.c
-        2.c)
+       # 2.c
+        "print 1 22 333 etc.c")
 
