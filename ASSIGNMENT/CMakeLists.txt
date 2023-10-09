@@ -9,5 +9,6 @@ add_executable(ASSIGNMENT
        # "print 1 22 333 etc.c"
         #"Prime or Composite.c"
       #  "HCF.c"
-        "Boiling.c")
+      #  "Boiling.c"
+        "addition function.c")
 
