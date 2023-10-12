@@ -10,5 +10,6 @@ add_executable(ASSIGNMENT
         #"Prime or Composite.c"
       #  "HCF.c"
       #  "Boiling.c"
-        "addition function.c")
+      #  "addition function.c"
+        "fibonacci using function.c")
 
