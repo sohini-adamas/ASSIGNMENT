@@ -11,5 +11,6 @@ add_executable(ASSIGNMENT
       #  "HCF.c"
       #  "Boiling.c"
       #  "addition function.c"
-        "fibonacci using function.c")
+       # "fibonacci using function.c"
+        "first 20 odd numbers.c")
 

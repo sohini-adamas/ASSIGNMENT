@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/USER/CLionProjects/ASSIGNMENT/cmake-build-debug/
 
 build cmake_object_order_depends_target_ASSIGNMENT: phony || CMakeFiles/ASSIGNMENT.dir
 
-build CMakeFiles/ASSIGNMENT.dir/fibonacci_using_function.c.obj: C_COMPILER__ASSIGNMENT_unscanned_Debug C$:/Users/USER/CLionProjects/ASSIGNMENT/fibonacci$ using$ function.c || cmake_object_order_depends_target_ASSIGNMENT
-  DEP_FILE = CMakeFiles\ASSIGNMENT.dir\fibonacci_using_function.c.obj.d
+build CMakeFiles/ASSIGNMENT.dir/first_20_odd_numbers.c.obj: C_COMPILER__ASSIGNMENT_unscanned_Debug C$:/Users/USER/CLionProjects/ASSIGNMENT/first$ 20$ odd$ numbers.c || cmake_object_order_depends_target_ASSIGNMENT
+  DEP_FILE = CMakeFiles\ASSIGNMENT.dir\first_20_odd_numbers.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ASSIGNMENT.dir
   OBJECT_FILE_DIR = CMakeFiles\ASSIGNMENT.dir
@@ -63,7 +63,7 @@ build CMakeFiles/ASSIGNMENT.dir/fibonacci_using_function.c.obj: C_COMPILER__ASSI
 #############################################
 # Link the executable ASSIGNMENT.exe
 
-build ASSIGNMENT.exe: C_EXECUTABLE_LINKER__ASSIGNMENT_Debug CMakeFiles/ASSIGNMENT.dir/fibonacci_using_function.c.obj
+build ASSIGNMENT.exe: C_EXECUTABLE_LINKER__ASSIGNMENT_Debug CMakeFiles/ASSIGNMENT.dir/first_20_odd_numbers.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ASSIGNMENT.dir
