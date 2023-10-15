@@ -12,5 +12,7 @@ add_executable(ASSIGNMENT
       #  "Boiling.c"
       #  "addition function.c"
        # "fibonacci using function.c"
-        "first 20 odd numbers.c")
+       # "first 20 odd numbers.c"
+        #"grade.c"
+        "hexagon area.c")
 
