@@ -16,5 +16,6 @@ add_executable(ASSIGNMENT
         #"grade.c"
         #"hexagon area.c"
         #"average marks.c"
-        "size of floating point.c")
+       # "size of floating point.c"
+        "capital or small.c")
 
