@@ -49,8 +49,14 @@ cmake_ninja_workdir = C$:/Users/USER/CLionProjects/ASSIGNMENT/cmake-build-debug/
 
 build cmake_object_order_depends_target_ASSIGNMENT: phony || CMakeFiles/ASSIGNMENT.dir
 
-build CMakeFiles/ASSIGNMENT.dir/hexagon_area.c.obj: C_COMPILER__ASSIGNMENT_unscanned_Debug C$:/Users/USER/CLionProjects/ASSIGNMENT/hexagon$ area.c || cmake_object_order_depends_target_ASSIGNMENT
-  DEP_FILE = CMakeFiles\ASSIGNMENT.dir\hexagon_area.c.obj.d
+build CMakeFiles/ASSIGNMENT.dir/average_marks.c.obj: C_COMPILER__ASSIGNMENT_unscanned_Debug C$:/Users/USER/CLionProjects/ASSIGNMENT/average$ marks.c || cmake_object_order_depends_target_ASSIGNMENT
+  DEP_FILE = CMakeFiles\ASSIGNMENT.dir\average_marks.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ASSIGNMENT.dir
+  OBJECT_FILE_DIR = CMakeFiles\ASSIGNMENT.dir
+
+build CMakeFiles/ASSIGNMENT.dir/size_of_floating_point.c.obj: C_COMPILER__ASSIGNMENT_unscanned_Debug C$:/Users/USER/CLionProjects/ASSIGNMENT/size$ of$ floating$ point.c || cmake_object_order_depends_target_ASSIGNMENT
+  DEP_FILE = CMakeFiles\ASSIGNMENT.dir\size_of_floating_point.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ASSIGNMENT.dir
   OBJECT_FILE_DIR = CMakeFiles\ASSIGNMENT.dir
@@ -63,7 +69,7 @@ build CMakeFiles/ASSIGNMENT.dir/hexagon_area.c.obj: C_COMPILER__ASSIGNMENT_unsca
 #############################################
 # Link the executable ASSIGNMENT.exe
 
-build ASSIGNMENT.exe: C_EXECUTABLE_LINKER__ASSIGNMENT_Debug CMakeFiles/ASSIGNMENT.dir/hexagon_area.c.obj
+build ASSIGNMENT.exe: C_EXECUTABLE_LINKER__ASSIGNMENT_Debug CMakeFiles/ASSIGNMENT.dir/average_marks.c.obj CMakeFiles/ASSIGNMENT.dir/size_of_floating_point.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ASSIGNMENT.dir

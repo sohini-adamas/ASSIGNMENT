@@ -14,5 +14,7 @@ add_executable(ASSIGNMENT
        # "fibonacci using function.c"
        # "first 20 odd numbers.c"
         #"grade.c"
-        "hexagon area.c")
+        #"hexagon area.c"
+        #"average marks.c"
+        "size of floating point.c")
 
