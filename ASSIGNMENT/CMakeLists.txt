@@ -18,5 +18,7 @@ add_executable(ASSIGNMENT
         #"average marks.c"
        # "size of floating point.c"
         #"vowel or consonant.c"
-        "capital or small.c")
+       # "capital or small.c"
+       # "random.c"
+        "tree recursion.c")
 

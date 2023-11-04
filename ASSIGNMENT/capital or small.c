@@ -2,7 +2,7 @@
 // Created by USER on 10/16/2023.
 //
 //Write a program in c to check if the character entered by the user is an upper case character or lower case character.
-#include<stdio.h>
+#include <stdio.h>
 int main()
 {
     char ch;
