@@ -20,5 +20,6 @@ add_executable(ASSIGNMENT
         #"vowel or consonant.c"
        # "capital or small.c"
        # "random.c"
-        "tree recursion.c")
+       # "tree recursion.c"
+        "pyq.c")
 
