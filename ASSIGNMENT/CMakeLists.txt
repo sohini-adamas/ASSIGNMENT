@@ -8,7 +8,7 @@ add_executable(ASSIGNMENT
        # 2.c
        # "print 1 22 333 etc.c"
         #"Prime or Composite.c"
-      #  "HCF.c"
+        #"HCF.c"
       #  "Boiling.c"
       #  "addition function.c"
        # "fibonacci using function.c"
@@ -21,5 +21,7 @@ add_executable(ASSIGNMENT
        # "capital or small.c"
        # "random.c"
        # "tree recursion.c"
-        "pyq.c")
+      # "pyq.c"
+       #"gcd using recursion.c"
+       "r2.c" )
 
