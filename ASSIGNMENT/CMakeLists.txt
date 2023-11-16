@@ -23,5 +23,8 @@ add_executable(ASSIGNMENT
        # "tree recursion.c"
       # "pyq.c"
        #"gcd using recursion.c"
-       "r2.c" )
+       #"r2.c"
+        #"Addition of two complex numbers using structure.c"
+        #"feet inches time.c"
+        "feet inches time.c")
 

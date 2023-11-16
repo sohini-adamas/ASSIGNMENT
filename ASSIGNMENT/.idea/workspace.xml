@@ -21,14 +21,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7c55682-cc7d-4ec0-96e2-f2e0ca9e92cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/gcd using recursion.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/r2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Addition of two complex numbers using structure.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feet inches time.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-24f8bbb3c39b4968899e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-0a6834aaaf3f61b0a9c0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-11-05T14-35-28-0551.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-ASSIGNMENT-Debug-b941d3f94e6ff30030c0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-cc5d1c4f0c4038ff346d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-11-06T14-45-31-0356.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-ASSIGNMENT-Debug-f6d87839e5494d8b1cd6.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/ASSIGNMENT.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ASSIGNMENT.exe" afterDir="false" />
@@ -49,7 +48,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
@@ -131,6 +130,8 @@
       <workItem from="1699204396129" duration="2559000" />
       <workItem from="1699277282065" duration="13000" />
       <workItem from="1699281564423" duration="3532000" />
+      <workItem from="1699292371974" duration="37000" />
+      <workItem from="1700142264083" duration="3825000" />
     </task>
     <servers />
   </component>
