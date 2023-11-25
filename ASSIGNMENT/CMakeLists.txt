@@ -26,5 +26,7 @@ add_executable(ASSIGNMENT
        #"r2.c"
         #"Addition of two complex numbers using structure.c"
         #"feet inches time.c"
-        "feet inches time.c")
+        #"feet inches time.c"
+        #"product.c"
+        "perfect square.c")
 
