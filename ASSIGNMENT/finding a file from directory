@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main(){
+    char file_name[100];
+    printf("Enter the name of file:");
+    gets(file_name);
+    FILE *fp;
+    fp=fopen(file_name,"r");
+    if(fp!=NULL){
+        printf("FILE FOUND!!\n");
+    }
+    else{
+        printf("FILE NOT FOUND!!");
+    }
+}
